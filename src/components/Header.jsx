@@ -59,7 +59,7 @@ function Header({ setSearch, searchValue, handleKeyPress }) {
                         noWrap
                         sx={{ flexGrow: 1, display: 'block', fontFamily: 'inherit', fontWeight: 'bold', textAlign: 'left', marginBottom: { xs: '1rem', lg: '0rem' } }}
                     >
-                        Reunion-intern
+                        Devrev - frontend
                     </Typography>
                     <Search>
                         <SearchIconWrapper>
